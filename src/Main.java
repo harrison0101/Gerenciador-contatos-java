@@ -1,3 +1,4 @@
+import model.Contato;
 import java.util.List;
 import java.util.Scanner;
 
