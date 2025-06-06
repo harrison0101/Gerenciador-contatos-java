@@ -1,3 +1,4 @@
+import model.Contato;
 import java.io.*;
 import java.util.*;
 
