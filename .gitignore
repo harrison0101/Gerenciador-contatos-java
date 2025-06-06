@@ -1,0 +1,8 @@
+*.class
+*.log
+*.tmp
+*.bak
+/bin/
+/build/
+/dist/
+.DS_Store
