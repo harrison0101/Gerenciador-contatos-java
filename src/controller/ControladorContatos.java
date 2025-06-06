@@ -1,3 +1,4 @@
+import model.Contato;
 import java.util.*;
 
 public class ControladorContatos {
